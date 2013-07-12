@@ -7,6 +7,6 @@ Data delivered would be fairly raw - and not geo referenced
 relatively accurate but more work would be required to properly 
 pin it to the ground.
 
-This is offered by Aerometric to UAF for free a sample research product for evaluation.
+This is offered by Aerometric to UAF for free as a sample research product for evaluation.
 
 Thanks to [James Wilder](http://bloglidar.com/) from [Aerometric](http://www.aerometric.com/services) for this offer.
