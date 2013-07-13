@@ -5,5 +5,13 @@ See the [project website: http://gina-alaska.github.io/UAF-mobile_lidar/](http:/
 
 Project to track possible route for a mobile LiDAR collection on UAF campus.
 
-
 Current route: [westridge.geojson](https://github.com/gina-alaska/UAF-mobile_lidar/blob/master/west_ridge.geojson) by [Aerometric](http://www.aerometric.com/)
+
+Notes
+=====
+
+Converted Alaska Albers (EPSG:3338) shapefile to GeoJSON using:
+
+```shell
+ogr2ogr -t_srs crs:84 -f GeoJSON west_ridge.geojson paths/west_ridge-mobile_lidar.shp
+```
