@@ -5,10 +5,10 @@ See the [project website: http://gina-alaska.github.io/UAF-mobile_lidar/](http:/
 
 Project to track possible route for a mobile LiDAR collection on UAF campus.
 
-Proposed route: [westridge.geojson](https://github.com/gina-alaska/UAF-mobile_lidar/blob/master/west_ridge.geojson) by [Aerometric](http://www.aerometric.com/)
+Proposed route: [proposed_west_ridge.geojson](https://github.com/gina-alaska/UAF-mobile_lidar/blob/master/proposed_west_ridge.geojson) by [Aerometric](http://www.aerometric.com/)
 
 
-Actual route: [westridge.geojson](https://github.com/gina-alaska/UAF-mobile_lidar/blob/master/actual_loop.geojson) by [Aerometric](http://www.aerometric.com/)
+Actual route: [actual_loop.geojson](https://github.com/gina-alaska/UAF-mobile_lidar/blob/master/actual_loop.geojson) by [Aerometric](http://www.aerometric.com/)
 
 Notes
 =====
